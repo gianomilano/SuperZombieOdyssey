@@ -1,6 +1,4 @@
-heads up, the updater in your current version is broken on my side, so it won't find anything right now. not your fault, nothing to fix on your end.
-
-1.37o drops later today with a bunch of fixes and a new mode. just grab it from this page once, after that auto updates work again.
+The updater works again from 1.37o. If yours says no connection, grab 1.37o here once - after that it updates itself.
 
 
 
