@@ -1,3 +1,11 @@
+heads up, the updater in your current version is broken on my side, so it won't find anything right now. not your fault, nothing to fix on your end.
+
+1.37o drops later today with a bunch of fixes and a new mode. just grab it from this page once, after that auto updates work again.
+
+
+
+
+
 # Super Zombie Odyssey Online
 
 Zombie survival mod for Super Mario Odyssey. Rounds, perks, the Ray Gun, bosses, online co-op and a little secret hidden in the kingdoms.
