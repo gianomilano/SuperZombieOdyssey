@@ -1,9 +1,3 @@
-The updater works again from 1.37o. If yours says no connection, grab 1.37o here once - after that it updates itself.
-
-
-
-
-
 # Super Zombie Odyssey Online
 
 Zombie survival mod for Super Mario Odyssey. Rounds, perks, the Ray Gun, bosses, online co-op and a little secret hidden in the kingdoms.
