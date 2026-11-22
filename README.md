@@ -15,3 +15,8 @@ Updates: just run ZombieUpdater.exe, it only downloads what changed.
 Have fun :)
 
 Fan-made mod, Super Mario Odyssey belongs to Nintendo. Use your own copy of the game.
+
+
+big thanks to
+@mcanterogomez for the Punchmod ❤️
+[@Kleintimmi](https://github.com/kleintimmi) testing and blender help ❤️
